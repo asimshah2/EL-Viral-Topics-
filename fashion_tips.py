@@ -17,10 +17,6 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- # List of Elegant Legacy–style keywords
-keywords = [
-  # List of Elegant Legacy–style keywords (updated with new suggestions)
-keywords = [
     "Capsule Wardrobe Over 50", "Chic Outfits for Women Over 50", "Summer Fashion 2025 Over 50",
     "Timeless Style for Women", "What Not To Wear Over 50", "Elegant Outfits for Mature Women",
     "Wardrobe Mistakes Aging You", "How To Look Expensive Over 50", 
